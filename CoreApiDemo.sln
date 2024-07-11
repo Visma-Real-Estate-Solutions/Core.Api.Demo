@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPIDemo", "CoreAPIDemo.csproj", "{916EE7FD-9217-425C-AD8D-C4E7E1B09A0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{68611CC9-5A50-4577-A1E3-842DD47AA663}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{916EE7FD-9217-425C-AD8D-C4E7E1B09A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916EE7FD-9217-425C-AD8D-C4E7E1B09A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916EE7FD-9217-425C-AD8D-C4E7E1B09A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916EE7FD-9217-425C-AD8D-C4E7E1B09A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
